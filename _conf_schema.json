@@ -1,0 +1,8 @@
+{
+    "deduplication_interval": {
+        "type": "number",
+        "description": "請求去重時間窗口",
+        "hint": "在 X 秒内的連續請求將視為重複請求",
+        "default": 5
+    }
+}

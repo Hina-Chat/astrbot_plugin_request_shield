@@ -1,0 +1,5 @@
+name: astrbot_plugin_request_shield
+desc: 防止使用者因網路波動，對 LLM 發起重複請求。
+version: 1.0.0
+author: Magstic, Gemini 2.5 Pro
+repo: https://github.com/Hina-Chat/astrbot_plugin_request_shield
